@@ -17,3 +17,5 @@
 - large plant for middle room
 - balcony garden
 - bar stools
+- compressed air
+- swiffers
