@@ -19,3 +19,4 @@
 - bar stools
 - compressed air
 - swiffers
+- rugs
