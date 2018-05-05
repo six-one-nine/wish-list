@@ -24,6 +24,7 @@
 - candles
 - a plant
 - soap dispenser
+- trash can
 
 ## South Bathroom
 
