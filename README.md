@@ -11,6 +11,7 @@
 - rugs
 - weighted blanked
 - queen sheets
+- hamper
 - pillowcase
 
 ## Jack
