@@ -42,6 +42,18 @@
 - colander
 - KALLAX for vinyl, turntable
 
+## Grocery
+- sandwich juice
+- sandwich bread
+- turkey
+- peanut butter
+- jams
+- butter
+- pancake/waffle mix
+- lettuce
+- tomato
+- flour
+
 ## Balcony
 - hinged balcony half-table
 - garden
