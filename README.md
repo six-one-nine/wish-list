@@ -42,6 +42,7 @@
 - hand soap
 - colander
 - KALLAX for vinyl, turntable
+-TORKAD paper towel holder
 
 ## Grocery
 - sandwich juice
