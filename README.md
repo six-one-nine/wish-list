@@ -1,22 +1,49 @@
 # Wish List
+## Evan
+- lamp shade for clarinet
+- grand piano
+- a bed
+- MALM
+- 2x2 KALLAX
+- projector shelving
+- candles
+- a large plant
+- rugs
+- weighted blanked
+- queen sheets
+- pillowcase
+
+## Jack
+
+## Thomas
+
+## North Bathroom
 - bath mat
 - shower curtain
-- lamp shade for clarinet
-- waffle iron/panini press/tortilla steamer
-- hinged balcony half-table
+- The Garden of Earthly Delights
+- candles
+- a plant
+
+## South Bathroom
+
+## Foyer
 - security system
-- grand piano
-- dresser/storage
-- giant canvas print of The Garden of Earthly Delights
-- projector shelving
-- a bed
+- shoe KALLAX
+
+## Kitchen
+- waffle iron/panini press/tortilla steamer
 - rubber feet for utensil tray
 - toaster oven
-- candles
-- plant for bathroom
-- large plant for middle room
-- balcony garden
 - bar stools
+
+## Balcony
+- hinged balcony half-table
+- garden
+- lighting
+- more comfortable chairs
+- outdoor flooring?
+
+## Miscellaneous
 - compressed air
 - swiffers
-- rugs
+- broom
