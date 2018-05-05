@@ -35,6 +35,7 @@
 - waffle iron/panini press/tortilla steamer
 - rubber feet for utensil tray
 - toaster oven
+- wok
 - bar stools
 - knives
 - hand soap
