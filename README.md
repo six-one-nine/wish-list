@@ -39,6 +39,7 @@
 - bar stools
 - knives
 - hand soap
+- colander
 - KALLAX for vinyl, turntable
 
 ## Balcony
