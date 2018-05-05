@@ -38,6 +38,7 @@
 - bar stools
 - knives
 - hand soap
+- KALLAX for vinyl, turntable
 
 ## Balcony
 - hinged balcony half-table
