@@ -23,6 +23,7 @@
 - The Garden of Earthly Delights
 - candles
 - a plant
+- soap dispenser
 
 ## South Bathroom
 
@@ -35,6 +36,8 @@
 - rubber feet for utensil tray
 - toaster oven
 - bar stools
+- knives
+- hand soap
 
 ## Balcony
 - hinged balcony half-table
