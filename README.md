@@ -15,6 +15,10 @@
 - pillowcase
 
 ## Jack
+- JÄLL laundry bag
+- KLÄMTARE set of 3 box
+- IVAR cabinet
+- SKUBB box with compartments
 
 ## Thomas
 
