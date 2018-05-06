@@ -17,8 +17,9 @@
 ## Jack
 - JÄLL laundry bag
 - KLÄMTARE set of 3 box
-- IVAR cabinet
+- IVAR chest
 - SKUBB box with compartments
+- TRYSIL nightstand
 
 ## Thomas
 
