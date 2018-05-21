@@ -15,22 +15,22 @@
 - pillowcase
 
 ## Jack
-- JÄLL laundry bag
 - KLÄMTARE set of 3 box
-- IVAR chest
-- SKUBB box with compartments
 - TRYSIL nightstand
+- Bowl for baking
+- Nice lamp
+- A plant
+- speaker stands
 
 ## Thomas
 
 ## North Bathroom
-- bath mat
 - shower curtain
-- The Garden of Earthly Delights
 - candles
-- a plant
-- soap dispenser
+- more plants?
 - trash can
+- dustpan (with handle)
+- broom and dustpan set
 
 ## South Bathroom
 
@@ -44,23 +44,12 @@
 - toaster oven
 - wok
 - bar stools
-- knives
+- knive sharpener
 - hand soap
-- colander
-- KALLAX for vinyl, turntable
--TORKAD paper towel holder
+- Magnetic bar for knives
 
 ## Grocery
-- sandwich juice
-- sandwich bread
-- turkey
-- peanut butter
-- jams
-- butter
 - pancake/waffle mix
-- lettuce
-- tomato
-- flour
 
 ## Balcony
 - hinged balcony half-table
@@ -72,4 +61,4 @@
 ## Miscellaneous
 - compressed air
 - swiffers
-- broom
+- isopropyl alcohol
