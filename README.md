@@ -41,12 +41,10 @@
 ## Kitchen
 - waffle iron/panini press/tortilla steamer
 - rubber feet for utensil tray
-- toaster oven
-- wok
-- bar stools
 - knive sharpener
 - hand soap
 - Magnetic bar for knives
+- Oven mitts
 
 ## Grocery
 - pancake/waffle mix
@@ -61,4 +59,3 @@
 ## Miscellaneous
 - compressed air
 - swiffers
-- isopropyl alcohol
