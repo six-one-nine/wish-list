@@ -17,10 +17,10 @@
 ## Jack
 - KLÄMTARE set of 3 box
 - TRYSIL nightstand
-- Bowl for baking
 - Nice lamp
 - A plant
-- speaker stands
+- YPPERLIG lamp
+- SJÖPENNA lamp
 
 ## Thomas
 
@@ -45,6 +45,7 @@
 - hand soap
 - Magnetic bar for knives
 - Oven mitts
+- Bowl for baking
 
 ## Grocery
 - pancake/waffle mix
