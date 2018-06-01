@@ -21,6 +21,9 @@
 - A plant
 - YPPERLIG lamp
 - SJÖPENNA lamp
+- Curtain for window
+- Seal on bottom of door
+- Foam sound panels?
 
 ## Thomas
 
