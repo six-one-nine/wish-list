@@ -52,6 +52,14 @@
 
 ## Grocery
 - pancake/waffle mix
+- parmesean cheese
+- heavy cream
+- bell peppers
+- broccoli
+- onion
+- bread
+- chickpeas
+- indian sauce
 
 ## Balcony
 - hinged balcony half-table
